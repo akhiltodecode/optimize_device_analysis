@@ -1,0 +1,2 @@
+[console_scripts]
+optimize_device_analysis = optimize_device_analysis.__main__:main

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: optimize_device_analysis
+Version: 0.1.0
+Author: Akhilesh Keerthi
+Author-email: akhileshkeerthi@gmail.com
+Requires-Dist: psutil
+Requires-Dist: matplotlib
