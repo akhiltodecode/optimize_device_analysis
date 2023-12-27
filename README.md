@@ -1,4 +1,4 @@
-# Computer Info Generator
+# Device Optimizing & Analysis
 
 ![Python Version](https://img.shields.io/badge/python-3.12.svg)
 ![License](https://img.shields.io/github/license/akhiltodecode/optimize_device_analysis/)
